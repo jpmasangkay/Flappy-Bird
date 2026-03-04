@@ -3,3 +3,4 @@
 *.dll linguist-vendored
 Test_Data/* linguist-vendored
 MonoBleedingEdge/* linguist-vendored
+Test_BurstDebugInformation_DoNotShip/* linguist-vendored
