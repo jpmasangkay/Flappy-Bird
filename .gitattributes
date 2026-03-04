@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.dll linguist-vendored
+Test_Data/* linguist-vendored
+MonoBleedingEdge/* linguist-vendored
